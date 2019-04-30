@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/Bootstrap/Bootstrap.iml" filepath="$PROJECT_DIR$/../../mysql/Bootstrap/Bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/ajax/ajax.iml" filepath="$PROJECT_DIR$/../../mysql/ajax/ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/cookie/cookie.iml" filepath="$PROJECT_DIR$/../../mysql/cookie/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/css/css.iml" filepath="$PROJECT_DIR$/../../mysql/css/css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/filter/filter.iml" filepath="$PROJECT_DIR$/../../mysql/filter/filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../html/html.iml" filepath="$PROJECT_DIR$/../../html/html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/http/http.iml" filepath="$PROJECT_DIR$/../../mysql/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/jQuery/jQuery.iml" filepath="$PROJECT_DIR$/../../mysql/jQuery/jQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/jQuery2/jQuery2.iml" filepath="$PROJECT_DIR$/../../mysql/jQuery2/jQuery2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jdbcTemplate/jdbcTemplate.iml" filepath="$PROJECT_DIR$/../jdbcTemplate/jdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/jdbcTemplate2/jdbcTemplate2.iml" filepath="$PROJECT_DIR$/../../mysql/jdbcTemplate2/jdbcTemplate2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/js01/js01.iml" filepath="$PROJECT_DIR$/../../mysql/js01/js01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/js02/js02.iml" filepath="$PROJECT_DIR$/../../mysql/js02/js02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/jsp/jsp.iml" filepath="$PROJECT_DIR$/../../mysql/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/redis/redis.iml" filepath="$PROJECT_DIR$/../../mysql/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/redis2/redis2.iml" filepath="$PROJECT_DIR$/../../mysql/redis2/redis2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/response/response.iml" filepath="$PROJECT_DIR$/../../mysql/response/response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/web/web.iml" filepath="$PROJECT_DIR$/../../mysql/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/web2/web2.iml" filepath="$PROJECT_DIR$/../../mysql/web2/web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mysql/xml/xml.iml" filepath="$PROJECT_DIR$/../../mysql/xml/xml.iml" />
+    </modules>
+  </component>
+</project>

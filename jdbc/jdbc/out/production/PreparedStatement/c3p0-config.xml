@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--xml根元素-->
+<c3p0-config>
+  <!--默认的配置-->
+ <!-- <default-config>
+    &lt;!&ndash;连接数据库的参数&ndash;&gt;
+    &lt;!&ndash;驱动类名&ndash;&gt;
+    <property name="driverClass">com.mysql.jdbc.Driver</property>
+    &lt;!&ndash;连接字符串URL&ndash;&gt;
+    <property name="jdbcUrl">jdbc:mysql://localhost:3306/day19</property>
+    &lt;!&ndash;用户名&ndash;&gt;
+    <property name="user">root</property>
+    &lt;!&ndash;密码&ndash;&gt;
+    <property name="password">123456</property>
+
+    &lt;!&ndash;连接池的参数&ndash;&gt;
+    &lt;!&ndash;初始连接数&ndash;&gt;
+    <property name="initialPoolSize">5</property>
+    &lt;!&ndash;最大连接数&ndash;&gt;
+    <property name="maxPoolSize">10</property>
+    &lt;!&ndash;最长等待时间&ndash;&gt;
+    <property name="checkoutTimeout">3000</property>
+  </default-config>-->
+
+  <!--命名配置-->
+  <named-config name="JavaEE91">
+    <!--连接数据库的参数-->
+    <!--驱动类名-->
+    <property name="driverClass">com.mysql.jdbc.Driver</property>
+    <!--连接字符串URL-->
+    <property name="jdbcUrl">jdbc:mysql://localhost:3306/day18</property>
+    <!--用户名-->
+    <property name="user">root</property>
+    <!--密码-->
+    <property name="password">123456</property>
+    <!--连接池的参数-->
+    <!--初始连接数-->
+    <property name="initialPoolSize">5</property>
+    <!--最大连接数-->
+    <property name="maxPoolSize">10</property>
+    <!--最长等待时间-->
+    <property name="checkoutTimeout">3000</property>
+  </named-config>
+</c3p0-config>

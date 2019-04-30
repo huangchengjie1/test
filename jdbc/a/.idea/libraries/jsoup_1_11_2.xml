@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jsoup-1.11.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mysql/xml/lib/jsoup-1.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql/xml/lib/JsoupXpath-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../mysql/xml/lib/jsoup-1.11.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../mysql/xml/lib/jsoup-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.springsource.org.apache.commons.logging-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mysql/ajax/web/WEB-INF/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql/ajax/web/WEB-INF/mysql-connector-java-5.0.4-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql/ajax/web/WEB-INF/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql/ajax/web/WEB-INF/spring-beans-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql/ajax/web/WEB-INF/spring-core-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql/ajax/web/WEB-INF/spring-jdbc-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql/ajax/web/WEB-INF/spring-tx-4.1.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
